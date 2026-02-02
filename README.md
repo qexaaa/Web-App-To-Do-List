@@ -24,26 +24,12 @@ Aplikasi ini dibuat sebagai latihan pengembangan web menggunakan PHP tanpa frame
 
 ---
 
-## 📁 Struktur Folder
-├─ Web App To-Do List/
-│ ├─ index.php
-│ ├─ koneksi.php
-│ ├─ simpan_data.php
-│ ├─ edit_data.php
-│ ├─ hapus.php
-│ ├─ css/
-│ └─ js/
-├─ Database/
-│ └─ db_web_app_to_do_list.sql
-
----
-
-## Kesimpulan
+## 📄 Kesimpulan
 Aplikasi Web To-Do List ini diharapkan dapat menjadi media pembelajaran dalam memahami dasar-dasar pengembangan aplikasi web berbasis PHP Native dan MySQL, serta menjadi dasar untuk pengembangan aplikasi yang lebih kompleks di masa mendatang.
 
 ---
 
-## Identitas Pengembang
+## 👤 Author
 Nama: **Muhammad Saoki Ramada**  
 Program Studi: Teknologi Informasi
 Mata Kuliah: Pemrograman Web Lanjutan
