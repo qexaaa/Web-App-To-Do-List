@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jun 09, 2025 at 07:01 AM
+-- Generation Time: Feb 02, 2026 at 07:30 AM
 -- Server version: 10.4.32-MariaDB
 -- PHP Version: 8.2.12
 
@@ -38,8 +38,12 @@ CREATE TABLE `list` (
 --
 
 INSERT INTO `list` (`id`, `judul`, `status_selesai`) VALUES
-(1, 'mengerjakan tugas kuliah\r\n', 0),
-(2, 'Mencuci piring', 0);
+(7, 'Belajar TOEFL', 1),
+(11, 'Mencuci baju', 0),
+(12, 'rapihin kamar', 0),
+(13, 'Beli makanan buat makan malam', 1),
+(14, 'Belanja Mingguan', 0),
+(16, 'rapihin kamar', 1);
 
 --
 -- Indexes for dumped tables
@@ -59,7 +63,7 @@ ALTER TABLE `list`
 -- AUTO_INCREMENT for table `list`
 --
 ALTER TABLE `list`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=18;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
